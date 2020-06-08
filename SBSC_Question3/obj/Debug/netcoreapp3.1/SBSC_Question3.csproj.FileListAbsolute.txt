@@ -1,0 +1,11 @@
+C:\Users\Abeeb\source\repos\SBSC_AbeebOlatunjiLiadi\SBSC_Question3\bin\Debug\netcoreapp3.1\SBSC_Question3.exe
+C:\Users\Abeeb\source\repos\SBSC_AbeebOlatunjiLiadi\SBSC_Question3\bin\Debug\netcoreapp3.1\SBSC_Question3.deps.json
+C:\Users\Abeeb\source\repos\SBSC_AbeebOlatunjiLiadi\SBSC_Question3\bin\Debug\netcoreapp3.1\SBSC_Question3.runtimeconfig.json
+C:\Users\Abeeb\source\repos\SBSC_AbeebOlatunjiLiadi\SBSC_Question3\bin\Debug\netcoreapp3.1\SBSC_Question3.runtimeconfig.dev.json
+C:\Users\Abeeb\source\repos\SBSC_AbeebOlatunjiLiadi\SBSC_Question3\bin\Debug\netcoreapp3.1\SBSC_Question3.dll
+C:\Users\Abeeb\source\repos\SBSC_AbeebOlatunjiLiadi\SBSC_Question3\bin\Debug\netcoreapp3.1\SBSC_Question3.pdb
+C:\Users\Abeeb\source\repos\SBSC_AbeebOlatunjiLiadi\SBSC_Question3\obj\Debug\netcoreapp3.1\SBSC_Question3.csprojAssemblyReference.cache
+C:\Users\Abeeb\source\repos\SBSC_AbeebOlatunjiLiadi\SBSC_Question3\obj\Debug\netcoreapp3.1\SBSC_Question3.AssemblyInfoInputs.cache
+C:\Users\Abeeb\source\repos\SBSC_AbeebOlatunjiLiadi\SBSC_Question3\obj\Debug\netcoreapp3.1\SBSC_Question3.AssemblyInfo.cs
+C:\Users\Abeeb\source\repos\SBSC_AbeebOlatunjiLiadi\SBSC_Question3\obj\Debug\netcoreapp3.1\SBSC_Question3.dll
+C:\Users\Abeeb\source\repos\SBSC_AbeebOlatunjiLiadi\SBSC_Question3\obj\Debug\netcoreapp3.1\SBSC_Question3.pdb
